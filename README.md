@@ -1,0 +1,2 @@
+# commandy
+fund quick setup
